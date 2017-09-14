@@ -1,0 +1,231 @@
+/* line 4, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+.intro-lead-in {
+  font-size: 22px !important;
+  line-height: 27px !important;
+}
+
+/* line 9, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+.intro-heading {
+  font-size: 38px !important;
+  line-height: 50px !important;
+}
+
+/* line 14, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+.btn {
+  background-color: #e5352d !important;
+  border-color: #b72a24 !important;
+}
+
+/* line 19, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+.a {
+  color: #e5352d !important;
+}
+
+/* line 23, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+a.active, a:active, a:focus, a:hover {
+  color: #e5352d !important;
+}
+
+/* line 28, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+.navbar-brand {
+  color: #e5352d !important;
+}
+
+/* line 32, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+#mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
+  color: #e5352d !important;
+}
+
+/* line 36, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
+  background-color: #e5352d !important;
+}
+
+/* line 40, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+#portfolio .portfolio-item .portfolio-link .portfolio-hover {
+  background-color: #e5352d !important;
+}
+
+/* line 44, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+.navbar-toggler {
+  background-color: #e5352d !important;
+}
+
+@media (min-width: 768px) {
+  /* line 52, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  .intro-lead-in {
+    font-size: 25px !important;
+    line-height: 30px !important;
+  }
+
+  /* line 57, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  .intro-heading {
+    font-size: 60px !important;
+    line-height: 70px !important;
+  }
+
+  /* line 62, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  header.masthead {
+    background-image: linear-gradient(-225deg, rgba(0, 101, 168, 0.6) 0%, rgba(0, 36, 61, 0.6) 50%), url(/assets/banner_vpe-fa518f4d33d281f08f390e4b8fff8803c0662a660249c505d9326c43102b13d5.jpg) !important;
+  }
+
+  /* line 66, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  .btn {
+    background-color: #e5352d !important;
+    border-color: #b72a24 !important;
+  }
+
+  /* line 71, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  .a {
+    color: #e5352d !important;
+  }
+
+  /* line 75, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  a.active, a:active, a:focus, a:hover {
+    color: #e5352d !important;
+  }
+
+  /* line 79, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  .navbar-brand {
+    color: #e5352d !important;
+  }
+
+  /* line 83, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
+    color: #e5352d !important;
+  }
+
+  /* line 87, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
+    background-color: #e5352d !important;
+  }
+
+  /* line 91, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  #portfolio .portfolio-item .portfolio-link .portfolio-hover {
+    background-color: #e5352d !important;
+  }
+}
+/* line 4, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+.intro-lead-in {
+  font-size: 22px !important;
+  line-height: 27px !important;
+}
+
+/* line 9, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+.intro-heading {
+  font-size: 38px !important;
+  line-height: 50px !important;
+}
+
+/* line 14, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+.btn {
+  background-color: #e5352d !important;
+  border-color: #b72a24 !important;
+}
+
+/* line 19, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+.a {
+  color: #e5352d !important;
+}
+
+/* line 23, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+a.active, a:active, a:focus, a:hover {
+  color: #e5352d !important;
+}
+
+/* line 28, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+.navbar-brand {
+  color: #e5352d !important;
+}
+
+/* line 32, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+#mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
+  color: #e5352d !important;
+}
+
+/* line 36, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
+  background-color: #e5352d !important;
+}
+
+/* line 40, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+#portfolio .portfolio-item .portfolio-link .portfolio-hover {
+  background-color: #e5352d !important;
+}
+
+/* line 44, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+.navbar-toggler {
+  background-color: #e5352d !important;
+}
+
+@media (min-width: 768px) {
+  /* line 52, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  .intro-lead-in {
+    font-size: 25px !important;
+    line-height: 30px !important;
+  }
+
+  /* line 57, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  .intro-heading {
+    font-size: 60px !important;
+    line-height: 70px !important;
+  }
+
+  /* line 62, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  header.masthead {
+    background-image: linear-gradient(-225deg, rgba(0, 101, 168, 0.6) 0%, rgba(0, 36, 61, 0.6) 50%), url(/assets/banner_vpe-fa518f4d33d281f08f390e4b8fff8803c0662a660249c505d9326c43102b13d5.jpg) !important;
+  }
+
+  /* line 66, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  .btn {
+    background-color: #e5352d !important;
+    border-color: #b72a24 !important;
+  }
+
+  /* line 71, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  .a {
+    color: #e5352d !important;
+  }
+
+  /* line 75, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  a.active, a:active, a:focus, a:hover {
+    color: #e5352d !important;
+  }
+
+  /* line 79, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  .navbar-brand {
+    color: #e5352d !important;
+  }
+
+  /* line 83, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
+    color: #e5352d !important;
+  }
+
+  /* line 87, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
+    background-color: #e5352d !important;
+  }
+
+  /* line 91, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  #portfolio .portfolio-item .portfolio-link .portfolio-hover {
+    background-color: #e5352d !important;
+  }
+}
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, or any plugin's
+ * vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+
+
+ */
+
+@import "pages/index";

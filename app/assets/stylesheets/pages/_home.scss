@@ -17,7 +17,32 @@
 }
 
 .a {
-  color : #b72a24 !important;
+  color: #e5352d !important;
+}
+
+a.active, a:active, a:focus, a:hover {
+  color: #e5352d !important;
+}
+
+
+.navbar-brand {
+  color: #e5352d !important;
+}
+
+#mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
+  color: #e5352d !important;
+}
+
+ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
+  background-color: #e5352d !important;
+}
+
+#portfolio .portfolio-item .portfolio-link .portfolio-hover {
+  background-color: #e5352d !important;
+}
+
+.navbar-toggler {
+  background-color: #e5352d !important;
 }
 
 
@@ -44,6 +69,26 @@
   }
 
   .a {
-    color : #b72a24 !important;
+    color: #e5352d !important;
+  }
+
+  a.active, a:active, a:focus, a:hover {
+    color: #e5352d !important;
+  }
+
+  .navbar-brand {
+    color: #e5352d !important;
+  }
+
+  #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
+    color: #e5352d !important;
+  }
+
+  ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
+    background-color: #e5352d !important;
+  }
+
+  #portfolio .portfolio-item .portfolio-link .portfolio-hover {
+    background-color: #e5352d !important;
   }
 }

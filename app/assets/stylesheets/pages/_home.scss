@@ -1,0 +1,35 @@
+
+// mobile
+
+.intro-lead-in {
+  font-size: 22px !important;
+  line-height: 27px !important;
+}
+
+.intro-heading {
+    font-size: 38px !important;
+    line-height: 50px !important;
+}
+
+// desktop
+
+@media (min-width: 768px) {
+  .intro-lead-in {
+    font-size: 25px !important;
+    line-height: 30px !important;
+  }
+
+  .intro-heading {
+    font-size: 60px !important;
+    line-height: 70px !important;
+  }
+
+  header.masthead {
+    background-image: linear-gradient(-225deg, rgba(0,101,168,0.6) 0%, rgba(0,36,61,0.6) 50%), image-url("banner_vpe.jpg") !important;
+  }
+
+  .btn {
+    background-color: #e5352d !important;
+    border-color: #b72a24 !important;
+  }
+}

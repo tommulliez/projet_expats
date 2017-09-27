@@ -72,6 +72,15 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
     line-height: 30px !important;
   }
 
+  input {
+    width: 100% !important;
+  }
+
+  textarea {
+    width: 100% !important;
+    height: 236px;
+  }
+
   .section-subheading {
     margin-bottom: 40px !important;
   }
@@ -79,6 +88,8 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   section {
     padding: 60px !important;
   }
+
+
 
   .btnnouscontacter {
     margin-top: 20px;

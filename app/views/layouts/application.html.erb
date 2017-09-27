@@ -27,7 +27,10 @@
   </head>
 
   <body>
+    <%= render 'shared/flash' %>
+    <%= render 'shared/navbar' %>
     <%= yield %>
+    <%= render 'shared/footer' %>
     <script src="theme/vendor/jquery/jquery.min.js"></script>
     <script src="theme/vendor/popper/popper.min.js"></script>
     <script src="theme/vendor/bootstrap/js/bootstrap.min.js"></script>

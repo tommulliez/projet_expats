@@ -1,3 +1,21 @@
+/* line 1, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/_alert.scss */
+.alert {
+  padding: 0px !important;
+  margin-bottom: 0px !important;
+}
+
+/* line 6, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/_alert.scss */
+.alert-info {
+  background-color: #dcf7d7 !important;
+  border-color: #dcf7d7 !important;
+}
+
+/* line 11, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/_alert.scss */
+.alert-warning {
+  background-color: #f98977 !important;
+  border-color: #f98977 !important;
+  color: black;
+}
 /* line 4, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
 .intro-lead-in {
   font-size: 22px !important;
@@ -71,7 +89,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 
 /* line 63, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
 header.masthead {
-  background-image: linear-gradient(-226deg, rgba(0, 101, 168, 0.6) 0%, rgba(0, 36, 61, 0.6) 50%), url(/assets/banner_vpe-a2c76b1d076f33dc53b52907cdb6c10cfcc8bd6a5f1cafc0e154d6bfae97f702.jpg) !important;
+  background-image: linear-gradient(-226deg, rgba(0, 101, 168, 0.6) 0%, rgba(0, 36, 61, 0.6) 50%), url(/assets/mobile_banner_vpe-fa518f4d33d281f08f390e4b8fff8803c0662a660249c505d9326c43102b13d5.jpg) !important;
 }
 
 /* line 67, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
@@ -271,7 +289,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 
 /* line 63, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
 header.masthead {
-  background-image: linear-gradient(-226deg, rgba(0, 101, 168, 0.6) 0%, rgba(0, 36, 61, 0.6) 50%), url(/assets/banner_vpe-a2c76b1d076f33dc53b52907cdb6c10cfcc8bd6a5f1cafc0e154d6bfae97f702.jpg) !important;
+  background-image: linear-gradient(-226deg, rgba(0, 101, 168, 0.6) 0%, rgba(0, 36, 61, 0.6) 50%), url(/assets/mobile_banner_vpe-fa518f4d33d281f08f390e4b8fff8803c0662a660249c505d9326c43102b13d5.jpg) !important;
 }
 
 /* line 67, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */

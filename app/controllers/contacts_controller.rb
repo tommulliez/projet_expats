@@ -4,7 +4,6 @@ class ContactsController < ApplicationController
   end
 
   def create
-    fail
     @contact = Contact.new(params[:contact])
     @contact.request = request
     if @contact.deliver

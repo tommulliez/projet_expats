@@ -14,3 +14,9 @@
  *= require_self
  */
 @import "pages/index";
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+
+@import "config/variables";
+@import "config/bootstrap_variables"

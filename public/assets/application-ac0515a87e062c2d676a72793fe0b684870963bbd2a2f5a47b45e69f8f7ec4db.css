@@ -1,0 +1,559 @@
+/* line 1, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/_alert.scss */
+.alert {
+  padding: 0px !important;
+  margin-bottom: 0px !important;
+}
+
+/* line 6, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/_alert.scss */
+.alert-info {
+  background-color: #dcf7d7 !important;
+  border-color: #dcf7d7 !important;
+}
+
+/* line 11, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/_alert.scss */
+.alert-warning {
+  background-color: #f98977 !important;
+  border-color: #f98977 !important;
+  color: black;
+}
+/* line 1, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_description.scss */
+.image_1 {
+  width: 93%;
+  height: auto;
+  margin-bottom: 40px;
+}
+
+/* line 7, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_description.scss */
+.margin-need {
+  margin-top: 70px;
+  margin-bottom: 30px;
+}
+
+/* line 12, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_description.scss */
+.center-verticaly {
+  display: flex;
+}
+/* line 14, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_description.scss */
+.center-verticaly .description {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+/* line 20, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_description.scss */
+.image_2 {
+  width: 93%;
+  height: auto;
+  margin-bottom: 40px;
+}
+
+/* line 26, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_description.scss */
+.image_3 {
+  width: 93%;
+  height: auto;
+  margin-bottom: 40px;
+}
+/* line 1, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 200 !important;
+}
+
+/* line 8, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+.intro-lead-in {
+  font-size: 22px !important;
+  line-height: 27px !important;
+}
+
+/* line 13, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+.intro-heading {
+  font-size: 28px !important;
+  line-height: 38px !important;
+  font-weight: 200 !important;
+}
+
+/* line 19, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+.btn {
+  background-color: #e5352d !important;
+  border-color: #b72a24 !important;
+}
+
+/* line 24, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+.country {
+  width: 100% !important;
+  background-color: white !important;
+  height: 68px !important;
+}
+
+/* line 30, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+input {
+  width: 100% !important;
+}
+
+/* line 34, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+textarea {
+  width: 100% !important;
+}
+
+/* line 38, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+.a {
+  color: #e5352d !important;
+}
+
+/* line 42, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+a.active, a:active, a:focus, a:hover {
+  color: #e5352d !important;
+}
+
+/* line 47, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+.navbar-brand {
+  color: #e5352d !important;
+  font-family: 'Prociono', serif !important;
+}
+
+/* line 52, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+#mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
+  color: #e5352d !important;
+}
+
+/* line 56, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
+  background-color: #e5352d !important;
+}
+
+/* line 60, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+#portfolio .portfolio-item .portfolio-link .portfolio-hover {
+  background-color: #e5352d !important;
+}
+
+/* line 64, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+.navbar-toggler {
+  background-color: #e5352d !important;
+}
+
+/* line 68, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+header.masthead {
+  background-image: linear-gradient(-225deg, rgba(0, 101, 168, 0.6) 0%, rgba(0, 0, 0, 0.3) 50%), url(/assets/vin-pour-expat-1b66d113ef8117f955b94425c7c9d4b87ee22d4222768cee35c08ce7b28823b1.jpg) !important;
+}
+
+/* line 72, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+.text-primary {
+  color: #e5352d !important;
+}
+
+/* line 76, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+.btnnouscontacter {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/* line 81, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+.flag {
+  margin-right: auto !important;
+  margin-left: auto !important;
+}
+
+@media (min-width: 768px) {
+  /* line 89, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  .intro-lead-in {
+    font-size: 25px !important;
+    line-height: 30px !important;
+  }
+
+  /* line 94, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  .portfolio-caption {
+    height: 130px;
+  }
+
+  /* line 98, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  img.logo-cuv {
+    -webkit-filter: grayscale(1);
+    opacity: 0.6;
+    -webkit-transition: all .3s;
+    transition: all .3s;
+  }
+
+  /* line 105, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  img.logo-cuv:hover {
+    filter: none;
+    opacity: 1;
+  }
+
+  /* line 111, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  .country {
+    width: 100% !important;
+    height: 68px !important;
+  }
+
+  /* line 116, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  input {
+    width: 100% !important;
+  }
+
+  /* line 120, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  textarea {
+    width: 100% !important;
+    height: 254px;
+  }
+
+  /* line 125, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  .section-subheading {
+    margin-bottom: 40px !important;
+  }
+
+  /* line 129, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  section {
+    padding: 60px !important;
+  }
+
+  /* line 135, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  .btnnouscontacter {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  /* line 140, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  .text-primary {
+    color: #e5352d !important;
+  }
+
+  /* line 144, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  .intro-heading {
+    font-size: 40px !important;
+    line-height: 55px !important;
+    font-weight: 200 !important;
+  }
+
+  /* line 150, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  header.masthead {
+    background-image: linear-gradient(-225deg, rgba(0, 101, 168, 0.6) 0%, rgba(0, 0, 0, 0.3) 50%), url(/assets/vin-pour-expat-1b66d113ef8117f955b94425c7c9d4b87ee22d4222768cee35c08ce7b28823b1.jpg) !important;
+  }
+
+  /* line 154, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  .btn {
+    background-color: #e5352d !important;
+    border-color: #b72a24 !important;
+  }
+
+  /* line 159, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  .a {
+    color: #e5352d !important;
+  }
+
+  /* line 163, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  a.active, a:active, a:focus, a:hover {
+    color: #e5352d !important;
+  }
+
+  /* line 167, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  .navbar-brand {
+    color: #e5352d !important;
+    font-family: 'Prociono', serif !important;
+  }
+
+  /* line 172, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
+    color: #e5352d !important;
+  }
+
+  /* line 176, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
+    background-color: #e5352d !important;
+  }
+
+  /* line 180, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  #portfolio .portfolio-item .portfolio-link .portfolio-hover {
+    background-color: #e5352d !important;
+  }
+}
+/* line 1, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 200 !important;
+}
+
+/* line 8, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+.intro-lead-in {
+  font-size: 22px !important;
+  line-height: 27px !important;
+}
+
+/* line 13, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+.intro-heading {
+  font-size: 28px !important;
+  line-height: 38px !important;
+  font-weight: 200 !important;
+}
+
+/* line 19, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+.btn {
+  background-color: #e5352d !important;
+  border-color: #b72a24 !important;
+}
+
+/* line 24, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+.country {
+  width: 100% !important;
+  background-color: white !important;
+  height: 68px !important;
+}
+
+/* line 30, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+input {
+  width: 100% !important;
+}
+
+/* line 34, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+textarea {
+  width: 100% !important;
+}
+
+/* line 38, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+.a {
+  color: #e5352d !important;
+}
+
+/* line 42, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+a.active, a:active, a:focus, a:hover {
+  color: #e5352d !important;
+}
+
+/* line 47, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+.navbar-brand {
+  color: #e5352d !important;
+  font-family: 'Prociono', serif !important;
+}
+
+/* line 52, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+#mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
+  color: #e5352d !important;
+}
+
+/* line 56, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
+  background-color: #e5352d !important;
+}
+
+/* line 60, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+#portfolio .portfolio-item .portfolio-link .portfolio-hover {
+  background-color: #e5352d !important;
+}
+
+/* line 64, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+.navbar-toggler {
+  background-color: #e5352d !important;
+}
+
+/* line 68, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+header.masthead {
+  background-image: linear-gradient(-225deg, rgba(0, 101, 168, 0.6) 0%, rgba(0, 0, 0, 0.3) 50%), url(/assets/vin-pour-expat-1b66d113ef8117f955b94425c7c9d4b87ee22d4222768cee35c08ce7b28823b1.jpg) !important;
+}
+
+/* line 72, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+.text-primary {
+  color: #e5352d !important;
+}
+
+/* line 76, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+.btnnouscontacter {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/* line 81, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+.flag {
+  margin-right: auto !important;
+  margin-left: auto !important;
+}
+
+@media (min-width: 768px) {
+  /* line 89, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  .intro-lead-in {
+    font-size: 25px !important;
+    line-height: 30px !important;
+  }
+
+  /* line 94, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  .portfolio-caption {
+    height: 130px;
+  }
+
+  /* line 98, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  img.logo-cuv {
+    -webkit-filter: grayscale(1);
+    opacity: 0.6;
+    -webkit-transition: all .3s;
+    transition: all .3s;
+  }
+
+  /* line 105, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  img.logo-cuv:hover {
+    filter: none;
+    opacity: 1;
+  }
+
+  /* line 111, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  .country {
+    width: 100% !important;
+    height: 68px !important;
+  }
+
+  /* line 116, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  input {
+    width: 100% !important;
+  }
+
+  /* line 120, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  textarea {
+    width: 100% !important;
+    height: 254px;
+  }
+
+  /* line 125, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  .section-subheading {
+    margin-bottom: 40px !important;
+  }
+
+  /* line 129, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  section {
+    padding: 60px !important;
+  }
+
+  /* line 135, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  .btnnouscontacter {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  /* line 140, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  .text-primary {
+    color: #e5352d !important;
+  }
+
+  /* line 144, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  .intro-heading {
+    font-size: 40px !important;
+    line-height: 55px !important;
+    font-weight: 200 !important;
+  }
+
+  /* line 150, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  header.masthead {
+    background-image: linear-gradient(-225deg, rgba(0, 101, 168, 0.6) 0%, rgba(0, 0, 0, 0.3) 50%), url(/assets/vin-pour-expat-1b66d113ef8117f955b94425c7c9d4b87ee22d4222768cee35c08ce7b28823b1.jpg) !important;
+  }
+
+  /* line 154, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  .btn {
+    background-color: #e5352d !important;
+    border-color: #b72a24 !important;
+  }
+
+  /* line 159, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  .a {
+    color: #e5352d !important;
+  }
+
+  /* line 163, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  a.active, a:active, a:focus, a:hover {
+    color: #e5352d !important;
+  }
+
+  /* line 167, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  .navbar-brand {
+    color: #e5352d !important;
+    font-family: 'Prociono', serif !important;
+  }
+
+  /* line 172, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
+    color: #e5352d !important;
+  }
+
+  /* line 176, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
+    background-color: #e5352d !important;
+  }
+
+  /* line 180, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_home.scss */
+  #portfolio .portfolio-item .portfolio-link .portfolio-hover {
+    background-color: #e5352d !important;
+  }
+}
+/* line 1, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_description.scss */
+.image_1 {
+  width: 93%;
+  height: auto;
+  margin-bottom: 40px;
+}
+
+/* line 7, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_description.scss */
+.margin-need {
+  margin-top: 70px;
+  margin-bottom: 30px;
+}
+
+/* line 12, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_description.scss */
+.center-verticaly {
+  display: flex;
+}
+/* line 14, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_description.scss */
+.center-verticaly .description {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+/* line 20, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_description.scss */
+.image_2 {
+  width: 93%;
+  height: auto;
+  margin-bottom: 40px;
+}
+
+/* line 26, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_description.scss */
+.image_3 {
+  width: 93%;
+  height: auto;
+  margin-bottom: 40px;
+}
+/* line 1, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_navbar.scss */
+.nav-link {
+  color: darkgrey !important;
+}
+
+/* line 5, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_navbar.scss */
+.navbar-shrink {
+  background-color: #FFFFFF !important;
+}
+
+/* line 9, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_navbar.scss */
+#mainNav {
+  background-color: #FFFFFF;
+}
+
+@media (min-width: 768px) {
+  /* line 14, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_navbar.scss */
+  #mainNav {
+    background-color: #FFFFFF;
+    background-color: transparent;
+  }
+}
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, or any plugin's
+ * vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+
+
+ */
+
+@import "pages/index";
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+
+@import "config/variables";
+@import "config/bootstrap_variables"

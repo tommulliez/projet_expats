@@ -16,15 +16,17 @@
   border-color: #f98977 !important;
   color: black;
 }
-/* line 1, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_contact.scss */
-section#contact {
-  background-image: url(/assets/contact_2-375157bfed65beb4281102c0be014eaabee1667b4dfcd81f1542952451b3f1ee.jpg) !important;
-  background-size: 100%;
-}
+@media (min-width: 768px) {
+  /* line 2, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_contact.scss */
+  section#contact {
+    background-image: url(/assets/contact_2-375157bfed65beb4281102c0be014eaabee1667b4dfcd81f1542952451b3f1ee.jpg) !important;
+    background-size: 100%;
+  }
 
-/* line 6, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_contact.scss */
-.color-white {
-  color: white !important;
+  /* line 7, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_contact.scss */
+  .color-white {
+    color: white !important;
+  }
 }
 /* line 1, /Users/thomasmulliez/code/tommulliez/projet_expats/app/assets/stylesheets/pages/_description.scss */
 .image_1 {

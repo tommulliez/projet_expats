@@ -1,8 +1,10 @@
-section#contact {
-  background-image: image-url('contact_2.jpg') !important;
-  background-size: 100%;
-}
+@media (min-width: 768px) {
+  section#contact {
+    background-image: image-url('contact_2.jpg') !important;
+    background-size: 100%;
+  }
 
-.color-white {
-  color: white !important;
+  .color-white {
+    color: white !important;
+  }
 }
